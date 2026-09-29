@@ -1,0 +1,38 @@
+body{
+    text-align: center;
+    background-image: url('アヒルーず/Tsu26122_TS46087_TP_V4.jpg');;
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+}
+#top{
+background-color: rgb(152, 195, 233);
+color: rgb(255, 255, 255);
+padding:5%;
+margin-bottom: 15px;
+}
+#about{
+    background-color:floralwhite;
+}
+
+
+#everyday{
+ background-color: rgb(152, 195, 233);
+color:rgb(255, 255, 255);
+padding:5%;
+margin-bottom: 15px;
+}
+#one{
+    background-color:floralwhite;
+
+}
+#two{
+    background-color:floralwhite;
+}
+#three{
+    background-color:floralwhite;
+}
+#footer{
+    background-color: rgb(152, 195, 233);
+color: rgb(3, 47, 47);
+padding:5%;
+margin-bottom: 15px;
+}
